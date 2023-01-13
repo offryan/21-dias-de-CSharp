@@ -16,7 +16,7 @@ Veja minha evolução estudando 21 Dias interruptos estudando C# 11
 	code .
 
 
-### instalação do Docker:
+### Instalação do Docker:
 
 1 - selecione o terminal do git-bash no visual studio e o defina como default;
 
