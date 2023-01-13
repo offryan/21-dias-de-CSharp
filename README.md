@@ -7,13 +7,16 @@ Veja minha evolução estudando 21 Dias interruptos estudando C# 11 :)
 1 - Abra o git-bash na pasta do projeto desejado;
 
 3 - use o comando:
- 3.1:	dotnet new console
+
+ 	dotnet new console
 
 4 - use o comando:
- 4.1:	dotnet build
+ 
+	dotnet build
 
 5 - use o comando:
- 5.1:	code .
+
+	code .
 
 
 ### Instalação do Docker:
