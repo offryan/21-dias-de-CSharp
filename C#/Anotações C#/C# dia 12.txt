@@ -1,0 +1,13 @@
+  12/01
+
+- Concatenation Strings C# 11
+
+- JSON Strings C# 11
+
+- Validando a quantidade de caracteres e suas posições dentro da array
+
+- No .NET 7 o arquivo Docker e a imagem são feitas através de uma extensão = ".NET Containers"
+
+- PublishAot(true) para compilar todo o código de uma vez, o que melhora a performance na navegação
+
+- Class (recursos mais extensos), Record (Comparação de valores e objetos/Criação de objetos imutavél), Struct (primitivo - mais rápido), RecordStruct(DTO )
