@@ -1,6 +1,6 @@
-# Jornada_C-
-Veja minha evolução estudando 21 Dias interruptos estudando C# 11
+## Jornada de 21 dias estudando .NET 7 || C# 11
 
+Veja minha evolução estudando 21 Dias interruptos estudando C# 11 :)
 
 ### Comandos Básicos para Criação de Projetos .NET:
 
