@@ -6,15 +6,15 @@ Veja minha evolução estudando 21 Dias interruptos estudando C# 11 :)
 
 1 - Abra o git-bash na pasta do projeto desejado;
 
-3 - use o comando:
+2 - use o comando:
 
  	dotnet new console
 
-4 - use o comando:
+3 - use o comando:
  
 	dotnet build
 
-5 - use o comando:
+4 - use o comando:
 
 	code .
 
@@ -23,10 +23,12 @@ Veja minha evolução estudando 21 Dias interruptos estudando C# 11 :)
 
 1 - selecione o terminal do git-bash no visual studio e o defina como default;
 
-2 - use o comando: 
+2 - use o comando:
+
 	dotnet new webapi -o nome_api
 
 3 - use o comando: 
+
 	dotnet add package Microsoft.NET.Build.Containers --version 0.2.7
 
 4 - Instale-o também em sua maquina, caso contrário não funcionará.
