@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Ainda n sei\bin\Debug\net7.0\Ainda n sei.exe
+C:\Users\Administrator\Desktop\Ainda n sei\bin\Debug\net7.0\Ainda n sei.deps.json
+C:\Users\Administrator\Desktop\Ainda n sei\bin\Debug\net7.0\Ainda n sei.runtimeconfig.json
+C:\Users\Administrator\Desktop\Ainda n sei\bin\Debug\net7.0\Ainda n sei.dll
+C:\Users\Administrator\Desktop\Ainda n sei\bin\Debug\net7.0\Ainda n sei.pdb
+C:\Users\Administrator\Desktop\Ainda n sei\obj\Debug\net7.0\Ainda n sei.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Ainda n sei\obj\Debug\net7.0\Ainda n sei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Ainda n sei\obj\Debug\net7.0\Ainda n sei.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Ainda n sei\obj\Debug\net7.0\Ainda n sei.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Ainda n sei\obj\Debug\net7.0\Ainda n sei.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Ainda n sei\obj\Debug\net7.0\Ainda n sei.dll
+C:\Users\Administrator\Desktop\Ainda n sei\obj\Debug\net7.0\refint\Ainda n sei.dll
+C:\Users\Administrator\Desktop\Ainda n sei\obj\Debug\net7.0\Ainda n sei.pdb
+C:\Users\Administrator\Desktop\Ainda n sei\obj\Debug\net7.0\Ainda n sei.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Ainda n sei\obj\Debug\net7.0\ref\Ainda n sei.dll
