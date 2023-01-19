@@ -32,3 +32,5 @@ Veja minha evolução estudando 21 Dias interruptos estudando C# 11 :)
 	dotnet add package Microsoft.NET.Build.Containers --version 0.2.7
 
 4 - Instale-o também em sua maquina, caso contrário não funcionará.
+
+### Anotações:
