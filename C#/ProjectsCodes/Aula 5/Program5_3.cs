@@ -1,30 +1,20 @@
+List<string[]> matrizDeNomes = new List<string[]>();
 
-internal class Program5_3
+string[] cliente = new string[3];
+cliente[0] = "Danilo";
+cliente[1] = "(00)0000-0000";
+cliente[2] = "000.000.000-00";
+matrizDeNomes.Add(cliente);
+
+string[] cliente2 = new string[3];
+cliente2[0] = "Michele";
+cliente2[1] = "(00)0000-0001";
+cliente2[2] = "000.000.000-01";
+matrizDeNomes.Add(cliente2);
+
+foreach( string[] cli in matrizDeNomes )
 {
-    private static void Main(string[] args)
-    {
-        List<string[]> matrizDeNomes = new List<string[]>();
-
-        string[] client = new string[3];
-        client[0] = "CPF";
-        client[1] = "NUM";
-        client[2] = "CEP";
-
-        string[] client2 = new string[3];
-        client2[0] = "CPF";
-        client2[1] = "NUM";
-        client2[2] = "CEP";
-
-
-        string[] client3 = new string[3];
-        client[0] = "CPF";
-        client[1] = "NUM";
-        client[2] = "CEP";
-
-        foreach(string[] cli in matrizDeNomes)
-        {
-            //teste
-        }
-
-    }
+    Console.WriteLine($"Nome: {cli[0]}");
+    Console.WriteLine($"Telefone: {cli[1]}");
+    Console.WriteLine($"CPF: {cli[2]}");
 }

@@ -2,7 +2,7 @@ class Program{
     static void Main(string[] args)
     {
 
-                        ﻿while(true){
+    ﻿while(true){
     Console.Clear();
 
     Console.WriteLine("""
@@ -15,6 +15,16 @@ class Program{
     4 - Débito em conta
     5 - Sair do sistema
     """);
+
+    async Task<List<Cliente>> TodosClientes()
+{
+    return await clienteServico.Persistencia.Todos();
+}
+
+async Task<List<ContaCorrente>> TodosExtratos()
+{
+    return await contaCorrenteServico.Persistencia.Todos();
+}
 
 while (true)
 {
@@ -59,6 +69,34 @@ while (true)
             Console.WriteLine("Opção inválida");
             break;
     }
+    
+
+    async Task menuCadastraClienteSeNaoExiste()
+{
+    Console.WriteLine("""
+    O que você deseja fazer ?
+    1 - Cadastrar cliente
+    2 - Voltar ao menu
+    3 - Sair do programa
+    """);
+
+    var opcao = Console.ReadLine()?.Trim();
+
+    switch(opcao)
+    {
+        case "1":
+            await cadastrarCliente();
+            break;
+        case "3":
+            break;
+        case "2":
+            System.Environment.Exit(0);
+            break;
+        default:
+            Console.WriteLine("Opção inválida");
+            break;
+    }
+}
 
     if (sair) break;
 }
