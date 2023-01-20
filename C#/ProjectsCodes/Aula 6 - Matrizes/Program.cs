@@ -62,10 +62,10 @@ async Task mostrarContaCorrente(){
     }
 
     var cliente = await capturaCliente();
-
     var contaCorrenteCliente = await contaCorrenteServico.ExtratoCliente(cliente.Id);
     Console.Clear();
     Console.WriteLine("----------------------");
+
     foreach(var contaCorrente in contaCorrenteCliente){
         Console.WriteLine("Data: " + contaCorrente.Data.ToString("dd/MM/yyyy HH:mm:ss"));
         Console.WriteLine("Valor: " + contaCorrente.Valor);
@@ -82,7 +82,6 @@ async Task mostrarContaCorrente(){
 }
 
 async Task listarClientesCadastrados(){
-
     if((await TodosClientes()).Count == 0){
         await menuCadastraClienteSeNaoExiste();
     }
@@ -98,7 +97,6 @@ async Task mostrarClientes(
     Console.WriteLine(header);
 
     foreach(var cliente in (await TodosClientes())){
-
         Console.WriteLine("Id:" + cliente.Id);
         Console.WriteLine("Nome:" + cliente.Nome);
         Console.WriteLine("Telefone:" + cliente.Telefone);
