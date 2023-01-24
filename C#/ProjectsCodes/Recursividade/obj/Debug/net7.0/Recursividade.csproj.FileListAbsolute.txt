@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\bin\Debug\net7.0\Recursividade.exe
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\bin\Debug\net7.0\Recursividade.deps.json
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\bin\Debug\net7.0\Recursividade.runtimeconfig.json
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\bin\Debug\net7.0\Recursividade.dll
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\bin\Debug\net7.0\Recursividade.pdb
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\obj\Debug\net7.0\Recursividade.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\obj\Debug\net7.0\Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\obj\Debug\net7.0\Recursividade.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\obj\Debug\net7.0\Recursividade.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\obj\Debug\net7.0\Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\obj\Debug\net7.0\Recursividade.dll
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\obj\Debug\net7.0\refint\Recursividade.dll
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\obj\Debug\net7.0\Recursividade.pdb
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\obj\Debug\net7.0\Recursividade.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\obj\Debug\net7.0\ref\Recursividade.dll
