@@ -1,28 +1,24 @@
-﻿
-LerArquivos(@"C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade");
+﻿LerArquivos(@"C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade");
+void LerArquivos(int numeroArquivo){
 
-static void LerArquivos(string LerArquivos)
-{
-    string arquivoCaminho = @"C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\Nomes das pessoas" + numeroArquivo + ".txt";
-
-    using (StringReader arq = File.OpenText(arquivo))
+    string arquivoComCaminho = @"C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\Nomes das pessoas" + numeroArquivo + ".txt";
+    if(File.Exists(arquivoComCaminho))
     {
+         using (StreamReader arq = File.OpenText(nomeArquivos))
+        {
 
         string linha;
         while ((linha = arq.ReadLine()) != null)
-        {
-            System.Console.WriteLine(linha);
+            {
+                System.Console.WriteLine(linha);
+            }
         }
     }
-}
 
-string arquivoCaminho = @"C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\Nomes das pessoas" + numeroArquivo + ".txt";
-if (File.Exists(arquivoCaminho2))
-{
-    LerArquivos(numeroArquivo + 1);
-}
+    string arquivoComCaminho2 = @"C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Recursividade\Nomes das pessoas" + (numeroArquivo + 1)+ ".txt";
 
-static void Main(string[] args)
-{
-    LerArquivos();
+    if(File.Exists(arquivoComCaminho2))
+    {
+        LerArquivos(numeroArquivo + 1);
+    }
 }
