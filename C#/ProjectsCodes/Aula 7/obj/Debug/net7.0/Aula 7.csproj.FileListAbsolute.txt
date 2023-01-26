@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\bin\Debug\net7.0\Aula 7.exe
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\bin\Debug\net7.0\Aula 7.deps.json
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\bin\Debug\net7.0\Aula 7.runtimeconfig.json
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\bin\Debug\net7.0\Aula 7.dll
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\bin\Debug\net7.0\Aula 7.pdb
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\obj\Debug\net7.0\Aula 7.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\obj\Debug\net7.0\Aula 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\obj\Debug\net7.0\Aula 7.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\obj\Debug\net7.0\Aula 7.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\obj\Debug\net7.0\Aula 7.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\obj\Debug\net7.0\Aula 7.dll
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\obj\Debug\net7.0\refint\Aula 7.dll
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\obj\Debug\net7.0\Aula 7.pdb
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\obj\Debug\net7.0\Aula 7.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\21-dias-de-CSharp\C#\ProjectsCodes\Aula 7\obj\Debug\net7.0\ref\Aula 7.dll
